@@ -12,16 +12,24 @@ Currently, two official plugins are available:
 
 Eventful Creations is a comprehensive event planning application that allows users to learn about the company, view services offered, contact the team, and stay connected. The application uses React for the frontend and Express with Mongoose for the backend.
 
-## Table of Contents
+Key Technologies and Terms:
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+React: Used for building a responsive and dynamic user interface.
+
+React Router: Implemented for seamless navigation between different sections of the app.
+
+Axios: Utilized for making HTTP requests to the backend server.
+
+Node.js & Express: Developed the backend server to handle API requests and manage business logic.
+
+Mongoose: Employed for database operations and schema definition in MongoDB.
+
+CORS: Configured to enable secure cross-origin resource sharing.
+
+dotenv: Used for managing environment variables securely.
+
+RESTful API: Designed and implemented to handle form submissions and data retrieval efficiently.
+
 
 ## Features
 
